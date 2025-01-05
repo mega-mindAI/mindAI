@@ -101,4 +101,4 @@ MindAI is more than a testing platform—it is a revolutionary initiative to dem
 Explore MindAI, provide feedback, or contribute to our mission:  
 
 👉 **[Visit the MindAI Platform](https://yourwebsite.com)**  
-👉 **[Access the White Paper PDF](whitepaper.pdf)**  
+ 
