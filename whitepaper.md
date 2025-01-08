@@ -71,7 +71,7 @@ Interactive design elements, including leaderboards and achievement systems, fos
 
 ### **Phase 1: Core Deployment (Months 1-3)**  
 - Launch the core website with IQ, Big Five, and MBTI assessments.
-- 
+ 
 ### **Phase 2: Enhanced Interactivity (Months 4-6)**  
 - Launch community features (e.g., leaderboards and matchmaking).
 - Add personality visualizations and personalized feedback.
